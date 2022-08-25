@@ -1,4 +1,4 @@
 # fe_sep22_olexandr_savchenko
 
-- [Preview](https://your-name.github.io/your-repo/)
-- [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://spiritkyiv.github.io/fe_sep22_olexandr_savchenko/)
+- [Pull Request](https://github.com/spiritkyiv/fe_sep22_olexandr_savchenko/pull/1/files)
